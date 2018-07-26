@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SAS</string>
+    <string name="main_message">Upload Image To Proceed</string>
+    <string name="img_desc">Add image to take attendance</string>
+    <string name="btn_choose">Browse Image</string>
+    <string name="btn_capture">Capture Image</string>
+    <string name="btn_upload">Upload</string>
+    <string name="btn_result">Result</string>
 </resources>
